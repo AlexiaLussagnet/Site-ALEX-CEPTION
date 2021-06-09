@@ -12,6 +12,15 @@ body {
     margin-left: 20px;
 }
 
+.retour {
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: right;
+    float: right;
+    color: #A17A69;
+}
+
 h2 {
     font-family: 'police titre', Arial, Helvetica, sans-serif;
     font-size: 63px;
