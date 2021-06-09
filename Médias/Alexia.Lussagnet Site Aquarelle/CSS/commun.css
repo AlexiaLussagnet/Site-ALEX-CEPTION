@@ -1,0 +1,18 @@
+body{
+	
+	background: url("../IMAGES/logo4.gif") fixed no-repeat top right, url("../IMAGES/fond.jpg") fixed;
+	
+}
+
+
+footer{
+	color:white;
+	font-style:italic;
+	text-align:center;
+	font-size:20px
+}
+
+hr{
+	color:white
+}
+

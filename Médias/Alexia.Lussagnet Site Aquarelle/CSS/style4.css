@@ -1,0 +1,46 @@
+
+.hist{
+	color:rgb(250,1,186);
+	font-size:30px;
+	font-family:gabriola;
+	border: 4px, rgb(250,1,186),dashed;
+	border-radius:15px;
+	width:75%;
+	margin:auto
+	
+}
+
+p{
+	color:rgb(149,10,99);
+	font-family: gabriola; 
+	font-size: 25px;
+}
+
+aside{
+	
+	text-align:center;
+	
+}
+
+h1{
+	color: rgb(209,22,116);
+	font-family: gabriola;
+	font-size:100px;
+	border: 1px white double;
+	border-radius: 10px
+	
+}
+
+h2{
+	
+	color: rgb(1,250,84);
+	font-family: Comic Sans MS;
+	font-size: 50px;
+	font-style: italic;
+}
+
+a{
+	color: rgb(250,88,1);
+	font-size:25px;
+	text-align:center;
+}

@@ -1,0 +1,48 @@
+
+aside{
+	
+	text-align:center;
+	
+}
+
+.appli{
+	
+	color: rgb(250,1,125);
+	font-family: Comic Sans MS;
+	font-size: 17px;
+	font-style: italic;
+	border: 4px, rgb(215,64,160), double;
+	width:75%;
+	margin:auto
+	
+	
+}
+
+p{
+	color:rgb(149,10,99);
+	font-family: gabriola; 
+	font-size: 25px;
+}
+
+
+h1{
+	color: rgb(209,22,116);
+	font-family: gabriola;
+	font-size:100px;
+	
+	
+}
+
+h2{
+	
+	color: rgb(235,250,1);
+	font-family: Comic Sans MS;
+	font-size: 50px;
+	font-style: italic;
+}
+
+a{
+	color: rgb(250,88,1);
+	font-size:25px;
+	text-align:center;
+}

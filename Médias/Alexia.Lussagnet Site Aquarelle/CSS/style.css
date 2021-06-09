@@ -1,0 +1,47 @@
+
+nav{
+	display:flex;
+	font-size:20px
+
+}
+
+aside{
+	
+	display:flex;
+}
+
+
+section{ 
+	display:flex;
+}
+
+
+p{
+	display:flex;
+	color:rgb(149,10,99);
+	font-family: gabriola; 
+	font-size: 25px;
+	border:5px purple inside;
+	box-shadow: 5px 5px 5px;
+}
+
+
+h1{
+	color: rgb(87,215,64);
+	font-family: Ink Free;
+	font-size:100px;
+	
+}
+
+li{
+	
+	color:white;
+	
+}
+
+a{
+	color: rgb(209,22,116);
+}
+
+
+

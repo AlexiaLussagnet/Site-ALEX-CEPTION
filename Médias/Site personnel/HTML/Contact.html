@@ -1,0 +1,72 @@
+<!DOCTYPE html5>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Ceci est la deuxième page, par Alexia Lussagnet en septembre 2020" />
+	
+	<title>Page contact</title>
+		
+		<link rel="stylesheet" href="../CSS/style.css"/>
+		<link rel="stylesheet" href="../CSS/style2.css"/>
+		
+</head>
+
+<body> 
+
+			<ul id="top menu">
+				
+				<li><a href="Acceuil.html">Acceuil</a></li>
+				<li> <a href="CV.html">CV</a></li>
+				<li><a href="Contact.html"class="contact">Contact</a></li>
+			</ul>
+
+		<div>
+		 <form   method="post"   enctype="text/plain" action="mailto:alexia.lussagnet@gmail.com">
+		 
+		
+		 <p> Nom: </p>
+		 <input type="name" id="name" name="name" required minlenght="4" > 
+		
+		 <p> Prénom: </p>
+		  <input type="firstname" id="firstname" name="firstname" required minlenght="4" > 
+		
+		 <p> Mail: </p>
+		   <input type="mail" id="mail" name="mail" required minlenght="4" > 
+		
+		 </br>
+		 
+		 <label for="Raison">Choisissez une raison:</label>
+		  </br>
+		 <select name="Raison" id="Raison">
+			<option value="Simple contact">Simple contact</option>
+			<option value="Renseignements">Renseignements</option>
+			<option value="Collaboration">Collaboration</option>
+			<option value="Projet à but non lucratif">Projet à but non lucratif</option>
+			<option value="Offre d'emploi">Offre d'emploi</option>
+		</select>
+		
+		 </br>
+		
+		<label for="Comment"> Commentez:</label>
+					 </br>
+			<textarea id="comment" name="comment" rows="4" cols="50">
+			</textarea>
+			
+		
+		 
+				<div class="div2">
+				<input class="v" type="submit" value="Valider">
+				<input class="v" type="reset" value="Effacer">
+				</div>
+		 </div>		
+				
+</form> 
+		 
+		 
+	
+			 
+</body>
+</html>
+
+
+

@@ -1,0 +1,13 @@
+	En créant ce site, j'ai essayé de créer quelque chose d'intérressant, facile à utiliser tout en étant en hamonie.
+
+Dans l'index, ayant coloré les liens hypertextes je me suis rendue comte qu'il ne serait pas facile pour l'utilisateur de
+savoir où cliquer, j'ai créer des petites légendes qui lui demande de cliquer quand il passe la souris au dessus des liens
+hypertexte.
+J'ai cherché à innover dans les couleurs, en les mettants en harmonie entre elles et qu'on les voye toujours malgré le 
+fond coloré lui aussi, ainsi cela (je pense) donne plus envie de s'intérrésser au sujet.
+J'ai aussi essayé de mettre des images illustrant les sujets repris dans le texte.
+J'ai gardé toujours le même style, tout en variant légérement dans les couleurs, les formes de mises en page, les titres...
+tout en ayant toujours une même structure.
+J'ai tenté "d'animer" un peu le site en insérant des gifs.
+Et pour finir j'ai utilisé à peu près tous les procédés vu lors de ce chapitre.
+
