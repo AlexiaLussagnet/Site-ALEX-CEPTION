@@ -1,0 +1,112 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3em 0;
+}
+
+.wrapper .trait {
+    height: 1.7vw;
+    width: 100%;
+    background-color: #704535;
+}
+
+.wrapper .trait2 {
+    height: 1.7vw;
+    width: 100%;
+    background-color: #704535;
+}
+
+.wrapper .banner {
+    font-size: 6vw;
+    text-transform: uppercase;
+    z-index: 3;
+}
+
+.wrapper .banner span img {
+    width: 8.8vw;
+}
+
+.wrapper .banner h1 {
+    margin: -2.6vw;
+}
+
+h2 {
+    font-size: 83px;
+    position: absolute;
+    top: 200px;
+    left: 1000px;
+    color: #D7B9AA;
+    z-index: 4;
+}
+
+.container {
+    position: absolute;
+    top: 500px;
+    text-decoration: none;
+    width: 100%;
+}
+
+.flex-container {
+    display: flex;
+    background: #C4A494;
+    opacity: 50%;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'police titre', Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding: 15px;
+}
+
+#menu {
+    width: 330px;
+    height: 119px;
+    text-align: center;
+    text-decoration: none;
+    background: #704535;
+    opacity: 100%;
+    border-radius: 50%;
+    padding-top: 50px;
+    /*préparation animation hover*/
+    position: relative;
+    border-radius: 0% 0% 0% 0% / 0% 0% 0% 0%;
+    box-shadow: 15px 15px rgba(0, 0, 0, .15);
+    transition: all .4s ease;
+}
+
+#menu:hover {
+    border-radius: 0% 0% 50% 50% / 0% 0% 5% 5%;
+    box-shadow: 5px 5px rgba(0, 0, 0, .25);
+}
+
+.flex-container div {
+    padding: 1rem;
+}
+
+a {
+    text-decoration: none;
+    color: #D7B9AA;
+}
+
+.p1 {
+    font-size: 60px;
+    width: 80%;
+    text-align: center;
+    position: relative;
+    top: 700px;
+    left: 200px;
+    color: #46362f;
+}
+
+p {
+    padding-top: 125px;
+}
+
+.text p {
+    padding: 0;
+}
+
+.mont {
+    opacity: 30%;
+}

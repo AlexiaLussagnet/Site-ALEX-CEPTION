@@ -1,0 +1,31 @@
+.montagnes {
+    padding-top: 25px;
+    text-align: center;
+    display: block;
+}
+
+.plage {
+    padding-top: 25px;
+    text-align: center;
+    display: block;
+}
+
+.divers {
+    padding-top: 25px;
+    text-align: center;
+    display: block;
+}
+
+h3 {
+    padding-top: 25px;
+}
+
+.presentation {
+    padding-top: 50px;
+}
+
+.wrapper .banner {
+    font-size: 5vw;
+    text-transform: uppercase;
+    z-index: 3;
+}

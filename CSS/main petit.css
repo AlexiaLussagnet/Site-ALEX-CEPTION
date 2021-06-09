@@ -1,0 +1,73 @@
+@font-face {
+    font-family: police titre;
+    src: url(Great\ Day\ Personal\ Use.ttf);
+}
+
+@font-face {
+    font-family: police paragraphe;
+    src: url(Elegant\ Sans\ Regular.otf);
+}
+
+body {
+    margin-left: 20px;
+}
+
+h2 {
+    font-family: 'police titre', Arial, Helvetica, sans-serif;
+    font-size: 63px;
+    position: absolute;
+    top: 240px;
+    left: 100px;
+    color: #D7B9AA;
+}
+
+h3 {
+    font-family: 'police titre', Arial, Helvetica, sans-serif;
+    font-size: 63px;
+    color: #A17A69;
+}
+
+p {
+    font-family: 'police paragraphe', Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #A17A69;
+}
+
+body {
+    background-color: #E8DBD5;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3em 0;
+}
+
+.wrapper .trait {
+    height: 1.7vw;
+    width: 100%;
+    background-color: #704535;
+}
+
+.wrapper .trait2 {
+    height: 1.7vw;
+    width: 100%;
+    background-color: #704535;
+}
+
+.wrapper .banner {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 6vw;
+    text-transform: uppercase;
+    z-index: 3;
+}
+
+.wrapper .banner span img {
+    width: 8.8vw;
+}
+
+.wrapper .banner h1 {
+    margin: -2.6vw 0;
+}

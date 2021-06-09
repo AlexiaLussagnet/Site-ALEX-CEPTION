@@ -1,0 +1,55 @@
+.LOGO{
+    width:10em;
+    z-index: 2;
+}
+h1{
+   
+    font-size: 258px;
+    position: absolute;
+    top: -132px; left: 337px;
+    color: #B5927F;
+    
+}
+
+h2{
+    font-size: 63px;
+    position: absolute;
+    top: 240px; left: -10px;
+    color: #D7B9AA;
+    
+}
+
+
+.rotate div {
+	position: relative;
+	float: inline-start;
+	margin: 0 0 0 50px;
+	padding: 25px;
+    text-align: center;
+}
+
+div {
+	
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.rotate div img {
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+  }
+  .rotate div:hover img {
+    -webkit-transform: rotate(-15deg);
+    transform: rotate(-15deg);
+  }
+
+.img1{
+    padding-top: 50px;
+}
+
+.list{
+    padding-bottom: 25px;
+}
+
+

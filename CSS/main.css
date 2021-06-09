@@ -1,0 +1,130 @@
+@font-face {
+    font-family: police titre;
+    src: url(Great\ Day\ Personal\ Use.ttf);
+}
+
+@font-face {
+    font-family: police paragraphe;
+    src: url(Elegant\ Sans\ Regular.otf);
+}
+
+body {
+    margin-left: 20px;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    font-family: 'police titre', Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: 'police titre', Arial, Helvetica, sans-serif;
+    font-size: 63px;
+    color: #A17A69;
+}
+
+p {
+    font-family: 'police paragraphe', Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+body {
+    background-color: #E8DBD5;
+    min-height: 100vh;
+    position: relative;
+    z-index: 10;
+}
+
+.retour {
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: right;
+    float: right;
+    color: #A17A69;
+}
+
+main {
+    min-height: 100vh;
+    background: #E8DBD5;
+    position: relative;
+    z-index: 1;
+    text-decoration: none;
+}
+
+footer {
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 300px;
+    background: #A17A69;
+    display: grid;
+    place-items: center;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+
+ul {
+    list-style: circle;
+    list-style-image: url(../Médias/puce.png);
+    font-family: "police paragraphe", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    float: right;
+    margin-bottom: -25px;
+}
+
+.text {
+    display: inline-block;
+    margin-right: 200px;
+    color: #E8DBD5;
+}
+
+.milieu {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+    color: #E8DBD5;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3em 0;
+}
+
+.wrapper .trait {
+    height: 1.7vw;
+    width: 100%;
+    background-color: #704535;
+}
+
+.wrapper .trait2 {
+    height: 1.7vw;
+    width: 100%;
+    background-color: #704535;
+}
+
+.wrapper .banner {
+    font-size: 6vw;
+    text-transform: uppercase;
+    z-index: 3;
+}
+
+.wrapper .banner span img {
+    width: 8.8vw;
+}
+
+.wrapper .banner h1 {
+    margin: -2.6vw 0;
+}

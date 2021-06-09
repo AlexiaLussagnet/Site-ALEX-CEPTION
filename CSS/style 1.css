@@ -1,0 +1,44 @@
+h2 {
+    font-size: 73px;
+    position: absolute;
+    top: 240px;
+    left: 900px;
+    color: #D7B9AA;
+}
+
+.parcours {
+    text-align: right;
+}
+
+.p2 {
+    text-align: right;
+}
+
+.p1 {
+    width: 40%;
+    float: left;
+    padding-left: 25px;
+}
+
+.p3 {
+    width: 40%;
+    float: left;
+    padding-left: 25px;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.img1 {
+    padding-left: 50px;
+    padding-right: -10px;
+    transform: rotate(-10deg);
+    border-radius: 50%;
+}
+
+.img3 {
+    transform: rotate(10deg);
+    padding-left: -10px;
+    border-radius: 50%;
+}

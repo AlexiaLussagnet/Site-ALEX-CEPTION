@@ -1,0 +1,43 @@
+.siteaquarelle {
+    width: 60%;
+    margin: auto;
+    background-color: #C4A494;
+    border: 3px #AA9183 solid;
+    padding: 15px;
+    position: relative;
+    border-radius: 0% 0% 0% 0% / 0% 0% 0% 0%;
+    box-shadow: 15px 15px rgba(0, 0, 0, .15);
+    transition: all .4s ease;
+}
+
+.wrapper .banner {
+    font-size: 5.5vw;
+    text-transform: uppercase;
+    z-index: 3;
+}
+
+.siteaquarelle:hover {
+    border-radius: 0% 0% 50% 50% / 0% 0% 5% 5%;
+    box-shadow: 5px 5px rgba(0, 0, 0, .25);
+}
+
+.align {
+    text-align: center;
+}
+
+#sitecv {
+    width: 60%;
+    margin: auto;
+    background-color: #C4A494;
+    padding: 15px;
+    border: 3px #AA9183 solid;
+    position: relative;
+    border-radius: 0% 0% 0% 0% / 0% 0% 0% 0%;
+    box-shadow: 15px 15px rgba(0, 0, 0, .15);
+    transition: all .4s ease;
+}
+
+#sitecv:hover {
+    border-radius: 0% 0% 50% 50% / 0% 0% 5% 5%;
+    box-shadow: 5px 5px rgba(0, 0, 0, .25);
+}

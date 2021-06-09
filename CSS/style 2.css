@@ -1,0 +1,42 @@
+h2 {
+    font-size: 73px;
+    position: absolute;
+    top: 240px;
+    left: 880px;
+    color: #D7B9AA;
+}
+
+.tout {
+    text-align: center;
+    position: relative;
+}
+
+h3 {
+    line-height: 5em;
+}
+
+.p1,
+.p2 {
+    animation-duration: 2s;
+    animation-name: slidein;
+    color: #A17A69;
+}
+
+@keyframes slidein {
+    from {
+        margin-left: 100%;
+        width: 300%;
+    }
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+.img1 {
+    opacity: 50%;
+}
+
+.img2 {
+    opacity: 50%;
+}

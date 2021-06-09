@@ -1,0 +1,110 @@
+h2 {
+    font-size: 73px;
+    position: absolute;
+    top: 240px;
+    left: 800px;
+    color: #D7B9AA;
+}
+
+.p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    padding-top: 150px;
+    text-align: center;
+}
+
+.v {
+    background-color: #A17A69;
+    text-align: center;
+    display: inline-block;
+}
+
+.formulaire {
+    margin: auto;
+    width: 70%
+}
+
+.div2 {
+    width: 100%;
+}
+
+input [type=text],
+input[type="name"],
+input[type="firstname"],
+input[type="mail"],
+textarea,
+select,
+button {
+    width: 80%;
+    border: 1px dotted #A17A69;
+    border-radius: 40px;
+    margin: 20px;
+    box-sizing: border-box;
+    margin-top: 4px;
+    margin-bottom: 6px;
+    resize: vertical;
+    padding: 15px;
+}
+
+input [type=text],
+textarea,
+select,
+button {
+    width: 80%;
+    border: 1px dotted #999;
+    border-radius: 40px;
+    margin: 20px;
+    box-sizing: border-box;
+    margin-top: 4px;
+    margin-bottom: 6px;
+    resize: vertical;
+    padding: 15px;
+    font-family: 'police paragraphe', Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+select {
+    background-color: #E5CEC1;
+}
+
+input[type=submit] {
+    background-color: #A17A69;
+    color: #DABCB2;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=reset] {
+    background-color: #C4A494;
+    color: #A17A69;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.police {
+    font-family: 'police paragraphe', Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding-top: 15px;
+}
+
+.formulaire {
+    border: #A17A69 dotted 3px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+
+a {
+    color: #E5CEC1;
+}
+
+.logors {
+    display: inline-block;
+    width: 226px;
+    height: 330px;
+    padding: 10px;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+.presentation {
+    padding-top: 50px;
+}
+
+.centre {
+    padding-top: 25px;
+    text-align: center;
+    display: block;
+}
+
+.wrapper .banner {
+    font-size: 5vw;
+    text-transform: uppercase;
+    z-index: 3;
+}
