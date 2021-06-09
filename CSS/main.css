@@ -39,15 +39,6 @@ body {
     z-index: 10;
 }
 
-.retour {
-    text-decoration: none;
-    font-size: 25px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-align: right;
-    float: right;
-    color: #A17A69;
-}
-
 main {
     min-height: 100vh;
     background: #E8DBD5;
